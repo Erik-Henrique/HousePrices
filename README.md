@@ -6,3 +6,5 @@ Projeto criado para a competição do Kaggle sobre a previsão de preços das ca
 Em minha primeira tentativa, fazendo apenas um tratamento simples nos dados removendo as variáveis qualitativas e substituindo os NaN's por -1 alcancei um resultado de 0.33. 
 
 Em minha segunda tentativa, mantendo o tratamento de dados, porém implementando melhorias no código da árvore de regressão alcancei um resultado de 0.20.
+
+Em minha terceira tentativa, mantendo o tratamento de dados, porém implementando as técnicas de GBM como regressão alcancei um resultado de 0.15.
